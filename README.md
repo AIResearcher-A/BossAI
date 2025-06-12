@@ -1,2 +1,7 @@
-# BossAI
-Create a project
+# AI上司「BossAI」
+
+## 開発背景
+
+## 目標
+
+## 構成
